@@ -8776,7 +8776,7 @@
 	<Creature Id="10111" Name="Archeologist Dori" />
 	<Creature Id="10112" Name="Archeologist Ippon" />
 	<Creature Id="10113" Name="Ripeji" />
-	<Creature Id="10115" Name="Test_Drop&PC" />
+	<Creature Id="10115" Name="Test_Drop&amp;PC" />
 	<Creature Id="10116" Name="Traveler" />
 	<Creature Id="10117" Name="Traveler" />
 	<Creature Id="10118" Name="Diseased Animal" />
